@@ -64,7 +64,7 @@ void handleClient(WiFiClient& client, int ledPin) {
                                "<p><a href=\"/H\"><button class=\"button\">LIGAR</button></a></p>"
                                "<p><a href=\"/L\"><button class=\"button button2\">DESLIGAR</button></a></p>"
                                "<footer>"
-                               "© 2025 | Desenvolvido por <a href=\"https://github.com/celiobenj\" target=\"_blank\">Célio Benjamim</a> para o projeto <a href=\"https://instagram.com/gear_est\" target=\"_blank\">GEAR</a>."
+                               "© 2025 | Desenvolvido por <a href=\"https://github.com/celiobenj\" target=\"_blank\">Célio Benjamim</a> para o projeto <a href=\"https://github.com/gear-projects\" target=\"_blank\">GEAR</a>."
                                "</footer>"
                                "</body></html>";
 
